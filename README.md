@@ -24,7 +24,7 @@ This is a Task Management System developed using Laravel. The application allows
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/task-management-system.git
+   git clone https://github.com/your-username/task-management-system).git
    cd task-management-system
 ##Install dependencies:
 composer install
